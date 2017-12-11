@@ -2,7 +2,7 @@
   "name": "fork-test",
   "version": "0.0.1",
   "devDependencies": {
-    "chalk": "1.1.3",
+    "chalk": "2.3.0",
     "left-pad": "1.2.0"
   }
 }
